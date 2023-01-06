@@ -148,5 +148,5 @@ EMAIL_PORT=587
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-EMAIL_HOST_USER="johan.robayo@unillanos.edu.co"
-EMAIL_HOST_PASSWORD="teamomama20"
+EMAIL_HOST_USER="email"
+EMAIL_HOST_PASSWORD="pasword"
